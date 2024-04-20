@@ -1,3 +1,11 @@
+/*
+
+         Name: Suril Joshi
+
+         File: main.js
+
+         Date: 19 April 2024
+*/
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
